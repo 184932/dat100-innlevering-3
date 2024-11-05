@@ -32,7 +32,7 @@ public abstract class Innlegg {
 	
 	public String getBruker() {
 		
-		return  this.bruker;
+		return this.bruker;
 		
 	}
 
